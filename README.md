@@ -47,3 +47,5 @@
 <img src="https://raw.githubusercontent.com/znoc-0/znoc-0/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
